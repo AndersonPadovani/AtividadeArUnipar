@@ -20,7 +20,7 @@ SignUp-Page<br>
 ![Cadastro - Page](https://user-images.githubusercontent.com/93890411/201990432-ec87e9d7-35d7-4413-9411-9438f655bd7b.png)
 
 Config-Page<br>
-![Config - Page](https://user-images.githubusercontent.com/93890411/201990434-d478f798-6b35-41b4-8d7c-cab90ad6c6e0.png)
+![Config - Page](https://user-images.githubusercontent.com/93890411/201992349-23107802-11ef-412b-ad0b-fdd1293750b5.png)
 
 Faq-Page<br>
 ![Faq - Page](https://user-images.githubusercontent.com/93890411/201990436-00321c71-cfa0-446f-bc9c-21605b5d73e8.png)
