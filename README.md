@@ -1,12 +1,11 @@
 # AtividadeArUnipar
 Atividade Ar Unipar Programação para dispositivos moveis
 
-Aplicativo desenvolvido com Android Studio e JAVA, para fins academicos, pelo aluno: Anderson Ramos PAdovani.
+Aplicativo desenvolvido com Android Studio e JAVA, para fins acadêmicos, pelo aluno: Anderson Ramos PAdovani.
 
-O Projeto não está totalmente finalizado como o prototipo nem todas suas funçoes estão totalmente finalizadas, 
-apenas o que foi pedido como obrigatorio no enunciado, por falta de tempo não finalizei tudo o que pretendia demonstrar com este trabalho!
+O Projeto não está totalmente finalizado como o protótipo nem todas suas funções estão totalmente finalizadas, apenas o que foi pedido como obrigatório no enunciado, por falta de tempo não finalizei tudo o que pretendia demonstrar com este trabalho!
 
-Estas são algumas imagens do prototipo desenvolvido com FIGMA
+Estas são algumas imagens do protótipo desenvolvido com FIGMA
 
 Landing-Page<br>
 ![Landing - Page](https://user-images.githubusercontent.com/93890411/201990443-c739299e-f5e4-4e23-b945-874197dac573.png)
