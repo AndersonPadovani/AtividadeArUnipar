@@ -20,5 +20,5 @@
     <string name="faq_text">
         Este é um aplicativo, que foi elaborado pelo aluno Anderson Ramos Padovani, aluno da EAD-Unipar(“Universidade Paranáense”) RA: 09026328.
         Este projeto, foi desenvolvido em Android Studio, com a linguagem em JAVA, utilizando algumas API’s, proprias do desenvolvedor como api-rest
-        para comunicação com banco de dados alocado em nuvem, e ate api do GoogleMaps. Todo o projeto esta alocado no Github neste link: https://github.com/</string>
+        para comunicação com banco de dados alocado em nuvem, e ate api do GoogleMaps. Todo o projeto esta alocado no Github neste link: https://github.com/AndersonPadovani/AtividadeArUnipar</string>
 </resources>
